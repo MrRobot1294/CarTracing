@@ -1,0 +1,49 @@
+
+
+1.硬件上的分配：
+1.引脚的使用情况
+1.(PA4   PA5  PA6  PA7)    红外寻迹模块的使用
+2.PA4   PA5              i2c的SCL  SDA
+3.PWM1=PA2
+  PWM2=PA3
+  PWM3=PB0
+  PWM4=PB1
+
+
+4.编码器  PA8  PA9
+5,按键初始化程序  PA0  PA1  PB12
+6.蜂鸣器   PB13
+
+7.
+
+
+PA0    按键1
+PA1    按键2
+PA2    PWM1
+PA3    PWM2
+PA4    SCL
+PA5    SDA
+PA6    
+PA7
+PA8   编码器1
+PA9   编码器2
+
+
+
+PB0   PWM3
+PB1   PWM3
+PB2   LED1
+PB3   LED2
+PB4   LED3
+PB5   OLED--CS 
+PB6   OLED--DC
+PB7   OLED--RES
+PB8   OLED--SDA
+PB9   OLED--SCK
+PB10  LED4
+PB11  ........
+PB12  按键3
+PB13  蜂鸣器
+PB14  ........
+PB15  ........
+

@@ -1,0 +1,14 @@
+..\output\flysystemtime.o: ..\User\flysystemtime.c
+..\output\flysystemtime.o: ..\User\flysystemtime.h
+..\output\flysystemtime.o: ..\Libraries\CMSIS\stm32f10x.h
+..\output\flysystemtime.o: ..\Libraries\CMSIS\core_cm3.h
+..\output\flysystemtime.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output\flysystemtime.o: ..\Libraries\CMSIS\system_stm32f10x.h
+..\output\flysystemtime.o: ..\User\stm32f10x_conf.h
+..\output\flysystemtime.o: ..\Libraries\FWLIB\inc\stm32f10x_exti.h
+..\output\flysystemtime.o: ..\Libraries\CMSIS\stm32f10x.h
+..\output\flysystemtime.o: ..\Libraries\FWLIB\inc\stm32f10x_gpio.h
+..\output\flysystemtime.o: ..\Libraries\FWLIB\inc\stm32f10x_rcc.h
+..\output\flysystemtime.o: ..\Libraries\FWLIB\inc\stm32f10x_tim.h
+..\output\flysystemtime.o: ..\Libraries\FWLIB\inc\stm32f10x_usart.h
+..\output\flysystemtime.o: ..\Libraries\FWLIB\inc\misc.h
